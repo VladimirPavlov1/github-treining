@@ -1,0 +1,2 @@
+# github-treining
+тренування goit
